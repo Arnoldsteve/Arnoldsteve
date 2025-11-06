@@ -48,6 +48,7 @@ I build scalable systems, intuitive UI experiences, and resilient backend archit
 | **Artisa Base** | Multi-service monorepo powering storefront, admin dashboard & API with schema-per-tenant architecture | Next.js · NestJS · Prisma · PostgreSQL · Turborepo | [Repo](https://github.com/Arnoldsteve/artisan-base) |
 | **Satechs Solutions** | Company software showcase with front-end and API | Next.js (Front-end & API) · Tailwind · MongoDB | Private |
 | **Weather App (Vanilla JS)** | Modern, responsive weather app providing real-time weather info with dynamic backgrounds and smooth animations | JavaScript · HTML5 · CSS3 · Geolocation · Weather API | [Repo](https://github.com/Arnoldsteve/Weather-app-vanilla-js) |
+| **Universal Request Interceptor** | Chrome extension that intercepts and logs all HTTP requests for a target URL | JavaScript · Chrome Extension API | [Repo](https://github.com/Arnoldsteve/Universal-Request-Interceptor) |
 
 > Want to see specific code examples? **Check my repos →**  
 🔗 https://github.com/Arnoldsteve
