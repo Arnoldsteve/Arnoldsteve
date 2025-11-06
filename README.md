@@ -1,14 +1,14 @@
-# Hi there 👋, I'm Steve Arnold
+# Hey 👋, I'm **Steve Arnold**
 
-**Full Stack Software Engineer | Tech Innovator | Multi-Platform Developer**
+**Full Stack Software Engineer | Platform Developer | Open Source Builder**
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-## 🚀 Professional Overview
+I build scalable systems, intuitive UI experiences, and resilient backend architectures across **GitHub** & **GitLab** ecosystems. Passionate about clean engineering, modular design patterns, and developer experience.
 
-Passionate software engineer with a diverse technological toolkit, specializing in creating robust, scalable applications across multiple platforms and version control systems.
+---
 
-## 🌐 Project Platforms
+## 🌐 Where I Build
 
 <div align="center">
   <a href="https://github.com/Arnoldsteve">
@@ -19,48 +19,55 @@ Passionate software engineer with a diverse technological toolkit, specializing 
   </a>
 </div>
 
-## 💻 Technology Expertise
+---
 
-### 🟨 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🧠 Core Skillset
 
-### 🚀 Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=ui&logoColor=white)
+### **Languages**
+| JavaScript | TypeScript | PHP | Python | Java
+|-----------|------------|-----|--------|------|
 
-### 🔧 Backend Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+### **Frontend**
+| React | Next.js | Shadcn/UI | Mantine Core | TailwindCSS |
+|------|---------|------------|------------|---------------|
 
-### 🔄 Version Control & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### **Backend**
+| Nest.js | Node.js | Express.js | Fastify | Laravel | Django |
+|---------|---------|------------|---------|---------|---------|
 
-## 📈 Development Metrics
+### **DevOps & Tools**
+| Git | GitHub | GitLab | Docker | GitLab CI/CD | GitHub Actions |
+|----|--------|--------|--------|----------------|---------------|
+
+---
+
+## 🚀 Project Highlights
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **Artisa Base** | Multi-service monorepo powering storefront, admin dashboard & API with schema-per-tenant architecture | Next.js · NestJS · Prisma · PostgreSQL · Turborepo | [Repo](https://github.com/Arnoldsteve/artisan-base) |
+| **Satechs Solutions** | Company software showcase with front-end and API | Next.js (Front-end & API) · Tailwind · MongoDB | Private |
+| **Weather App (Vanilla JS)** | Modern, responsive weather app providing real-time weather info with dynamic backgrounds and smooth animations | JavaScript · HTML5 · CSS3 · Geolocation · Weather API | [Repo](https://github.com/Arnoldsteve/Weather-app-vanilla-js) |
+
+> Want to see specific code examples? **Check my repos →**  
+🔗 https://github.com/Arnoldsteve
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arnoldsteve&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnoldsteve&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arnoldsteve&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnoldsteve&theme=radical"/>
 </div>
 
-## 🌟 Project Ecosystem
+---
 
-- 🖥️ **Multi-Platform Development**: Active contributor on both GitHub and GitLab
-- 💡 **Diverse Project Portfolio**: Showcasing work across different version control platforms
-- 🤝 **Open Source Collaboration**: Engaging with community-driven development
-
-## 📫 Professional Connections
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-arnold-7b3134230/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevearnold9e@gmail.com)
 
-*Bridging innovation across platforms, one commit at a time!* 🌍🚀
+---
+
+### 🌍 *"Bridging innovation across platforms, one commit at a time."*
