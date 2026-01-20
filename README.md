@@ -1,74 +1,67 @@
-# Hey 👋, I'm **Steve Arnold**
+# 🚀 Steve Arnold | Software Engineer
 
-**Full Stack Software Engineer | Platform Developer | Open Source Builder**
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-I build scalable systems, intuitive UI experiences, and resilient backend architectures across **GitHub** & **GitLab** ecosystems. Passionate about clean engineering, modular design patterns, and developer experience.
-
----
-
-## 🌐 Where I Build
-
-<div align="center">
-  <a href="https://github.com/Arnoldsteve">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/Arnoldsteve">
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 🧠 Core Skillset
-
-### **Languages**
-| JavaScript | TypeScript | PHP | Python | Java
-|-----------|------------|-----|--------|------|
-
-### **Frontend**
-| React | Next.js | Shadcn/UI | Mantine Core | TailwindCSS |
-|------|---------|------------|------------|---------------|
-
-### **Backend**
-| Nest.js | Node.js | Express.js | Fastify | Laravel | Django |
-|---------|---------|------------|---------|---------|---------|
-
-### **DevOps & Tools**
-| Git | GitHub | GitLab | Docker | GitLab CI/CD | GitHub Actions |
-|----|--------|--------|--------|----------------|---------------|
-
----
-
-## 🚀 Project Highlights
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| **Artisa Base** | Multi-service monorepo powering storefront, admin dashboard & API with schema-per-tenant architecture | Next.js · NestJS · Prisma · PostgreSQL · Turborepo | [Repo](https://github.com/Arnoldsteve/artisan-base) |
-| **Satechs Solutions** | Company software showcase with front-end and API | Next.js (Front-end & API) · Tailwind · MongoDB | Private |
-| **Weather App (Vanilla JS)** | Modern, responsive weather app providing real-time weather info with dynamic backgrounds and smooth animations | JavaScript · HTML5 · CSS3 · Geolocation · Weather API | [Repo](https://github.com/Arnoldsteve/Weather-app-vanilla-js) |
-| **Universal Request Interceptor** | Chrome extension that intercepts and logs all HTTP requests for a target URL | JavaScript · Chrome Extension API | [Repo](https://github.com/Arnoldsteve/Universal-Request-Interceptor) |
-
-> Want to see specific code examples? **Check my repos →**  
-🔗 https://github.com/Arnoldsteve
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arnoldsteve&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnoldsteve&theme=radical"/>
-</div>
-
----
-
-## 🤝 Let's Connect
+**Architecting Scalable Backends | Crafting High-Conversion Frontends | Optimizing Performance & SEO**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steve-arnold-7b3134230/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevearnold9e@gmail.com)
 
 ---
 
-### 🌍 *"Bridging innovation across platforms, one commit at a time."*
+## 👨‍💻 Professional Profile
+I am a **Full-Lifecycle Software Engineer** dedicated to building digital products that scale. My approach combines the rigor of **Enterprise Backend Architecture** (NestJS, multi-tenancy, event-driven systems) with the precision of **High-Performance Frontend Engineering** (Next.js, SEO, and accessible UI).
+
+I specialize in transforming sluggish, monolithic applications into lean, distributed systems. My recent work involved optimizing a SaaS platform's core vitals, reducing API latency by **99%**, and ensuring a "Perfect 100" Lighthouse score for maximum search engine visibility.
+
+---
+
+## 🛠️ Tech Ecosystem
+
+### **The Engine (Backend)**
+- **Frameworks:** NestJS, Node.js, Express, Laravel (PHP).
+- **Data Strategy:** PostgreSQL (Prisma), Redis-distributed caching, BullMQ for background processing.
+- **Patterns:** Multi-tenant isolation, Event-Driven Architecture (EDA), Transactional Outbox.
+
+### **The Experience (Frontend & SEO)**
+- **Core:** React, Next.js (App Router), TypeScript.
+- **Design:** TailwindCSS, Shadcn/UI, Mantine Core, Responsive Design.
+- **Growth:** Core Web Vitals optimization, Semantic HTML, SSR/ISR strategies, metadata & schema.org implementation.
+
+---
+
+## 🏗️ Featured Engineering
+
+### **[GradeHub](https://github.com/Arnoldsteve/gradehub) | Enterprise School Management SaaS**
+*Lead Architect*
+- **Full-Stack Ownership:** Engineered an end-to-end multi-tenant system for 100+ schools.
+- **Backend Performance:** Solved concurrency bottlenecks using **Logical Versioning in Redis**, reducing response times from **6.4s to 59ms**.
+- **Frontend & SEO:** Built a blazing-fast marketing engine and dashboard using Next.js, achieving top-tier SEO rankings through optimized Server-Side Rendering (SSR) and automated metadata generation.
+- **Stack:** NestJS, Next.js, Prisma, PostgreSQL, Upstash Redis.
+
+### **[ArtisanBase](https://github.com/Arnoldsteve/artisan-base) | Multi-Tenant E-Commerce**
+*Software Engineer*
+- **Headless Architecture:** Developed a unified NestJS API serving distinct storefront and admin applications.
+- **UX & Scale:** Implemented high-frequency read caching for product catalogs, ensuring sub-100ms LCP (Largest Contentful Paint) for optimal user retention and SEO performance.
+
+### **[Universal Request Interceptor](https://github.com/Arnoldsteve/Universal-Request-Interceptor)**
+*Open Source Builder*
+- Engineered a Chrome extension to intercept and analyze HTTP traffic, demonstrating a deep understanding of browser internals and networking protocols.
+
+---
+
+## 📈 Engineering Impact
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arnoldsteve&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnoldsteve&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+## 🤝 Let's Build Something Resilient
+I am passionate about solving complex engineering challenges that directly impact business growth. Whether it's architecting a database for a million records or fine-tuning a React component for 0.1s faster interaction, I build with **Quality, Performance, and SEO** in mind.
+
+- 💬 Ask me about: **Multi-tenant SaaS, NestJS optimization, or Next.js SEO.**
+- 📫 Reach out: **stevearnold9e@gmail.com**
+- 🌍 **Available for Remote Global Engineering Roles.**
+
+*"Building the future of the web, one optimized commit at a time."*
